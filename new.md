@@ -95,3 +95,5 @@ anotherで編集してTAISHITAで見てみよう
 これでコミットした後に、GithubでPULLが出てないとおかしいよね？
 
 でないや…
+
+## 何でだろう？では、ブラウザのGithubからコミットします、anotherで（アプリとVScodeはTAISHITAのまま）
