@@ -93,3 +93,5 @@ anotherで編集してTAISHITAで見てみよう
 ## TAISHITAになったよ！
 
 これでコミットした後に、GithubでPULLが出てないとおかしいよね？
+
+でないや…
