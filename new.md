@@ -89,3 +89,7 @@ TAISHITAは楽しみだ！　anotherは楽しみではない！とする。
 anotherで編集してTAISHITAで見てみよう
 
 理屈で言えば、anotherで変わってるのだから、TAISHITAで開いたらPULLしろよって出ていなきゃおかしいもんね？
+
+## TAISHITAになったよ！
+
+これでコミットした後に、GithubでPULLが出てないとおかしいよね？
